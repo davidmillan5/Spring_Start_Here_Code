@@ -1,0 +1,1 @@
+rootProject.name = "sq-ch2-ex6"
