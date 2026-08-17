@@ -1,7 +1,7 @@
 # Spring Learning Journey 🍃
 
 <div align="center">
-  <img src="https://covers.openlibrary.org/b/isbn/9781617298691-L.jpg" alt="Spring Start Here Cover" width="250"/>
+  <img src="https://imgs.search.brave.com/YjedGpQB5fbI2JILQbermu5loH3zvIKKSIkH1a9AsTg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMjho/Z3ByaThhbTJpZi5j/bG91ZGZyb250Lm5l/dC9ib29rX2ltYWdl/cy9vbml4L2N2cjk3/ODE2MTcyOTg2OTEv/c3ByaW5nLXN0YXJ0/LWhlcmUtOTc4MTYx/NzI5ODY5MV9sZy5q/cGc" alt="Spring Start Here Cover" width="250"/>
   
   ### *Spring Start Here* by Laurențiu Spilcă
 </div>
